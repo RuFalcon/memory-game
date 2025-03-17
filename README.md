@@ -4,7 +4,7 @@
 
 🎮 [Играть онлайн](https://rufalcon.github.io/memory-game)
 
-![Magic Match Screenshot](img/screenshot.png)
+![Magic Match Screenshot](img/screenshot.jpg)
 
 ## Особенности
 
